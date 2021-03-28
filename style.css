@@ -54,9 +54,16 @@ nav {
 }
 
 @media only screen and (orientation: landscape) {
+    
     .container {
         margin-top: 2%;
     }
+    
+    
+    nav {
+        padding: 10px;
+    }
+    
 }
 
 
